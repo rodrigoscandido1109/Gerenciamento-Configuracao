@@ -1,3 +1,7 @@
 Versão 1 da atividade.
 
 Arquivo criado para demonstrar o controle de versão utilizando o GitHub.
+
+Versão 2 da atividade.
+
+Esta alteração foi realizada para demonstrar o histórico de mudanças e o controle de versões do projeto.
